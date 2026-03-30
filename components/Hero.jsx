@@ -22,7 +22,8 @@ export default function Hero() {
     "Photography",
     "Videography",
     "Graphic Design",
-    "Sales"
+    "Sales",
+    "Full Stack Developer"
   ];
 
   useEffect(() => {

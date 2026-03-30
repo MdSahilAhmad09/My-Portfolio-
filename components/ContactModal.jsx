@@ -33,7 +33,7 @@ ${formData.message}`;
     const whatsappUrl = `https://wa.me/917070471499?text=${encodedText}`;
 
     // Construct Mailto Link (Fallback for email)
-    const mailtoUrl = `mailto:mdsahilahmad82@gmail.com?subject=New Inquiry from ${formData.name}&body=${encodedText}`;
+    const mailtoUrl = `mailto: Sahiljstar21@gmail.com?subject=New Inquiry from ${formData.name}&body=${encodedText}`;
 
     // Open WhatsApp
     window.open(whatsappUrl, "_blank");
